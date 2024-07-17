@@ -1,4 +1,4 @@
-# Superstore Analysis Project
+# Superstore Return Analysis Project
 
 # Project Overview
 This project involves an analysis of Superstore's operations to identify key areas for profitability improvement, analyze product return patterns. 
