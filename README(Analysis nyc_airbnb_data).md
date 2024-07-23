@@ -15,13 +15,13 @@ https://docs.google.com/spreadsheets/d/1f9QBu5mVxD1K0TOob_Dfzvn283o2RCyuvTJWStpZ
 - Top-rated Properties in Top Neighborhoods.
 - Avg. Occupancy Based on Calendar Data
 
-#### Assumptions 
+### Assumptions 
 - Data only reflects September and a few days in the beginning of october 2022. Other months were not considerd.
 - All listing w/o superhost were filterd out of the analysis
 - All listing with lower rating were filtered out of the anlysis
 - Listing that were not between the price of $250 - $1000 were filterd out
 
-#### Change Log
+### Change Log
 - Made "Assumptions &change log" and "Start Here" tabs
 - Made copy of Listings Raw Data and Calendaer  Raw Data
 -Renamed copies to be "clean  data Listings" and  "Clean Calendar Data" tabs
@@ -41,10 +41,11 @@ https://docs.google.com/spreadsheets/d/1f9QBu5mVxD1K0TOob_Dfzvn283o2RCyuvTJWStpZ
 -Created pivot table "Avenue Revenue"
 -Changed "Start Here" tab to "Executive Summary" tab
 
-#### [Clean Listing Data]
-#### [Clean Calendar Data]
-#### [Top 10 Neighborhood]
-#### [Top Rated Properties in Top Neighborhoods]
-#### [Avg Occupancy]
-#### [Avg Based on Calendar Data]
-#### [Annual Revenue]
+### Worksheet tabs
+#### Clean Listing Data
+#### Clean Calendar Data
+#### Top 10 Neighborhood
+#### Top Rated Properties in Top Neighborhoods
+#### Avg Occupancy
+#### Avg Based on Calendar Data
+#### Annual Revenue
